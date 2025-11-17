@@ -18,7 +18,13 @@
 🥇 Top Products
 - By Sales: Nikon, Atomos, Solid Gear, Canal Toys, Vince Camuto
 - By Reviews: SanDisk, JETech, WOLVERINE
-  
+
+## 🧠 DAX Highlights
+This dashboard leverages powerful DAX measures and calculated columns to:
+- Aggregate sales and review data across time periods
+- Calculate dynamic percentages for QTD and YTD metrics
+- Rank top-performing products based on sales and reviews
+
 ## 🚀 How to Use
 - Clone the repository.
 - Open the .pbix file in Power BI Desktop.
