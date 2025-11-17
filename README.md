@@ -1,5 +1,6 @@
 # Amazon-Sales-Analysis
 📸 Dashboard Preview
+
 -Here’s a snapshot of the Amazon Product Sales Analysis Dashboard:
 ![Dashboard Preview](Dashboard.png)
 
